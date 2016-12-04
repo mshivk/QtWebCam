@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/CamQtImages">
+        <file>Resources/marbles.jpg</file>
+    </qresource>
+</RCC>
